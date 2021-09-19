@@ -1,15 +1,15 @@
-#Admin Login:
-username: admin,
-password: 123
+<p>Admin Login:</p>
+<p>username: admin,</p>
+<p>password: 123</p>
 
 
-#user login:
-username: user,
-password: 123
+<p>user login:</p>
+<p>username: user,</p>
+<p>password: 123</p>
 
 
-username: ask,
-password: 123
+<p>username: ask,</p>
+<p>password: 123</p>
 
 
-#Admin and one user is made by Authseeder.php
+<p>Admin and one user is made by Authseeder.php</p>
